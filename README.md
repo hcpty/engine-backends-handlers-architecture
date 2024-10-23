@@ -9,4 +9,4 @@ A cheap app architecture.
 - Activity负责使用Engine和Extension提供的API处理任务。
 
 ### Credits
-- [Hcpty Arc](https://github.com/hcpty/arc)
+- Computer Systems: A Programmer's Perspective, Third Edition
