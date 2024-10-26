@@ -1,5 +1,5 @@
 # Readme
-A cheap app architecture.
+An app architecture.
 
 ### Engine-Extension-Activity Architecture
 
